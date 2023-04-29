@@ -3,7 +3,7 @@
 }
 
 .task_1 p {
-  background-color: red;
+  -webkit-text-fill-color: red;
 }
 
 .task_1 button {
@@ -112,7 +112,7 @@
 /* ============================================ */
 
 .task_8 div {
-  display: none;
+  visibility: hidden;
 }
 
 .task_8 p {
